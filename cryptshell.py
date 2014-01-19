@@ -10,7 +10,7 @@ import sys, getopt, itertools, getpass, os, shutil
 # -i , --init: initializes system
 # -r <file_name>, --remove <file_name> : removes encrypted file
 #string used for validation, change to whatever you want
-VAL_STRING = "hello world!"
+VAL_STRING = "10cc4a10-e51d-4775-bd84-91998b377325"
 path = "./.files/"
 
 def main(argv):
